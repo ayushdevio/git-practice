@@ -3,4 +3,4 @@ Learning Git
 Git is powerful
 Git makes collaboration easy
 Feature login code
-Navbar feature
+Footer feature from branch
