@@ -1,3 +1,4 @@
 Hello Git.
 Learning Git
 Git is powerful
+Git makes collaboration easy
